@@ -5,4 +5,6 @@ Template repository to start the lab
 
 [Demo of Lab Running](https://drive.google.com/file/d/1ZFaEwkhx0O3yD8WQ6vK4tORS8xllzVmp/view?usp=sharing)
 
+[Rubric and Lab Checklist](https://docs.google.com/document/d/1LSKNS2UToi1t7sp4KtrNfHj8RdrNln307OaxDs53mw0/edit?usp=sharing)
+
 This project has the required .java files as well as a starter questions.txt file for you to add your questions.
